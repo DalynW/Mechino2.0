@@ -24,7 +24,7 @@ def user_signup(request):
 def user_edit(request):
     return HttpResponse('User Editing')
 
-# Add vehicle page for entering vehicle details JON WAS HERE!!!!!!!!
+# Add vehicle page for entering vehicle details DALYN WAS HERE!!!!!
 def user_add_vehicle(request):
     return HttpResponse('User add vehicle')
 
